@@ -1,3 +1,12 @@
+# Getting started in codespaces
+
+
+- Open this project in a Codespace
+- Get .env file from Mark and add it to the root of the project (This contains our API Keys)
+- Pull the latest from Docker and build using the terminal `docker-compose build`
+- Run AutoGPT in the terminal `docker-compose run --rm auto-gpt`
+
+
 # Auto-GPT: An Autonomous GPT-4 Experiment
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt)
